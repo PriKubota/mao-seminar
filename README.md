@@ -5,6 +5,11 @@ https://elmas3.github.io/mao-seminar/
 
 # ディレクトリ構成
 ```
+
+# メンバー
+久保田
+わかば
+
 seminar/
 ├─ index.html        # トップページ
 ├─ member.html       # メンバー紹介ページ
